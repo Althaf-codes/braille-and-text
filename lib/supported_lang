@@ -1,0 +1,91 @@
+
+ 
+Language					Language (English name)	 		BCP-47 language code	Script / notes
+
+Afrikaans					Afrikaans	af	Latn
+shqip						Albanian	sq	Latn
+Català					    Catalan	ca	Latn
+中文						Chinese	zh	Hans/Hant; supported in v2
+Hrvatski					Croatian	hr	Latn
+Čeština					    Czech		cs	Latn
+Dansk						Danish	da	Latn
+Nederlands					Dutch	nl	Latn
+English					    English	en	Latn; American
+Eesti keel					Estonian	et	Latn
+Filipino					Filipino	fil (or tl)	Latn
+Suomi						Finnish	fi	Latn
+Français					French	fr	Latn; European
+Deutsch					    German	de	Latn
+हिन्दी                        Hindi		hi	Deva; supported in v2
+Magyar					    Hungarian	hu	Latn
+Íslenska					Icelandic	is	Latn
+Bahasa Indonesia			Indonesian	id	Latn
+Italiano					Italian	it	Latn
+日本語						 Japanese	ja	Jpan; supported in v2
+한국어						 Korean	ko	Kore; supported in v2
+Latviešu					Latvian	lv	Latn
+Lietuvių					Lithuanian	lt	Latn
+Bahasa Melayu			   	Malay	ms	Latn
+मराठी	                     Marathi				mr	Deva; supported in v2
+नेपाली	                      Nepali				ne	Deva; supported in v2
+Norsk	                     Norwegian				no	Latn; Bokmål
+Polski					Polish	pl	Latn
+Português					Portuguese	pt	Latn; Brazilian
+Română					Romanian	ro	Latn
+Српски (латиница)				Serbian	sr-Latn	Latn
+Slovenčina					Slovak	sk	Latn
+Slovenščina					Slovenian	sl	Latn
+Español					Spanish	es	Latn; European
+Svenska					Swedish	sv	Latn
+Türkçe					Turkish	tr	Latn
+Tiếng Việt					Vietnamese	vi	Latn
+
+
+
+
+
+flutter build apk --build-name=1.0 --build-number=1
+
+
+
+
+
+// final langToBeProcessed = [
+  //   'Afrikaans',
+  //   'Albanian',
+  //   'Catalan',
+  //   'Chinese',
+  //   'Croatian',
+  //   'Czech',
+  //   'Danish',
+  //   'Dutch',
+  //   'English',
+  //   'Estonian',
+  //   'Filipino',
+  //   'Finnish',
+  //   'French',
+  //   'German',
+  //   'Hindi',
+  //   'Hungarian',
+  //   'Icelandic',
+  //   'Indonesian',
+  //   'Italian',
+  //   'Japanese',
+  //   'Korean',
+  //   'Latvian',
+  //   'Lithuanian',
+  //   'Malay',
+  //   'Marathi',
+  //   'Nepali',
+  //   'Norwegian',
+  //   'Polish',
+  //   'Portuguese',
+  //   'Romanian',
+  //   'Serbian',
+  //   'Slovak',
+  //   'Slovenian',
+  //   'Spanish',
+  //   'Swedish',
+  //   'Turkish',
+  //   'Vietnamese'
+  // ];

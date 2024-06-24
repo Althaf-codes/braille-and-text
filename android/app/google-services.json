@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "317293449370",
+    "project_id": "brailetextrecognition",
+    "storage_bucket": "brailetextrecognition.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:317293449370:android:993b9985e06ffbdd78cf23",
+        "android_client_info": {
+          "package_name": "com.example.text_braile_recognition"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "317293449370-e77vdcj3asf6i7v0c12jknebe9ndco99.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkFjMcTbPhaeEDssdpEWdCCyh2j90VEXg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "317293449370-e77vdcj3asf6i7v0c12jknebe9ndco99.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
